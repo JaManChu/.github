@@ -26,7 +26,10 @@ https://www.notion.so/codinghhs/API-5bf2a2401c2b424885c69b3afac5b7b2?pvs=4
 |Monitoring|<img src="https://img.shields.io/badge/node_exporter-9FEF00?style=for-the-badge"> <img src="https://img.shields.io/badge/cadvisor-999999?style=for-the-badge"> <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"> |
 |ETC|<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">|
 
-# 기여
-
-# 개선할 점
+# 🧞 Member
+| Name    | 정한얼 | 황희상 | 이가온 | 김다솔 | 김세훈 |
+| ------- | ------ | -------| ------ | ------ | ------ |
+| Profile | <img width="140px" src="https://avatars.githubusercontent.com/u/79863514?s=96&v=4"> | <img width="140px" src="https://avatars.githubusercontent.com/u/93089183?s=96&v=4"> | <img width="140px" src="https://avatars.githubusercontent.com/u/165661849?s=96&v=4"> | <img width="140px" src="https://avatars.githubusercontent.com/u/116494361?s=96&v=4"> | <img width="140px" src="https://avatars.githubusercontent.com/u/109889070?s=96&v=4"> |
+| Role | Team Leader, <br/>Backend | Backend,<br/>DevOps | Backend | Frontend,<br/>Design | FrontEnd,<br/>Design |
+| GitHub | [![GitHub](https://img.shields.io/badge/-jungheol-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jungheol) | [![GitHub](https://img.shields.io/badge/-Heesane-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heesane) | [![GitHub](https://img.shields.io/badge/-DlrkdhsOff-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DlrkdhsOff) | [![GitHub](https://img.shields.io/badge/-sol2588-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sol2588) | [![GitHub](https://img.shields.io/badge/-hunffy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hunffy) |
 
